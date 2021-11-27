@@ -1,5 +1,5 @@
 ## Requisitos
-1. Cadastro do **Cliente**, nome, número para contato, endereço
+1. Cadastro do **Cliente**, nome, número para contato, endereço, id cliente
 2. **Funcionários** nome, telefone, endereço, cpf
 3. **Produtos** possui preço e ID
 4. **Fornecedores** possui nome,telefone, endereço, cnpj 
