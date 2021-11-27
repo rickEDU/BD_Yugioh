@@ -1,4 +1,4 @@
-## BD Yu-Gi-Oh
+## BD Yu-Gi-Oh v2
 O projeto consiste no design de um banco de dados para uma loja online que
 vende cartas de Yu-Gi-Oh!, onde clientes podem adiquirir cartas avulsas,
 boosters, decks e acessórios relacionados ao game. Trazendo uma maior
