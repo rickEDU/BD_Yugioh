@@ -1,3 +1,5 @@
+## Modelo Relacional
+
 Cliente(<ins>id_cliente</ins>, endereço, contato, nome)<br>
 Compra(<ins>id_compra</ins>, itens_vendidos, valor_total_compra, inf_cliente, data)<br>
 Item_compra()<br>
