@@ -1,7 +1,7 @@
 ## Modelo Relacional
 
 Cliente(<ins>id_cliente</ins>, endereço, contato, nome)<br>
-Compra(<ins>id_compra</ins>, ![#1589F0]**id_cliente** `#1589F0`, itens_vendidos, valor_total_compra, inf_cliente, data)<br>
+Compra(<ins>id_compra</ins>, **id_cliente**, itens_vendidos, valor_total_compra, inf_cliente, data)<br>
 Item_compra(**id_compra**)<br>
 Produto(<ins>id_produto</ins>, preço, qtd_estoque)<br>
 Carta(<ins>id_produto</ins>, descriçao, nome, categoria)<br>
