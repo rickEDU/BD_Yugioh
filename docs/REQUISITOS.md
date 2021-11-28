@@ -9,8 +9,8 @@
 8. Clientes podem comprar ou vender de 1 ou N cartas
 9. **Cartas**  vão ser dividas entre mágicas, armadilhas, monstros, possuem categorias, nome, descrição, possuem preço, ID.
 10. **Cartas_monstro**  atributo, tipo, nível, atk, def, efeito
-11. **Cartas_mágicas** possui  velocidade
-12. **Cartos_armadilhas**  possui velocidade
+11. **Cartas_mágicas** possui  tipo
+12. **Cartos_armadilhas**  possui tipo
 13. **Funcionários** fazem os pedidos aos fornecedores
 14. **Pedidos** possuem valor total, quantidade de produtos adquiridos, identificação do fornecedor
 15. Um **Deck** tem preço, Tier, ID
