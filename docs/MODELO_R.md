@@ -13,3 +13,4 @@ Deck(<ins>id_produto</ins>, nome, tier, descriçao)<br>
 Fornecedores(<ins>cnpj</ins>, endereco, telefone, nome)<br>
 Produto_pedido(<ins>id_pedido</ins>,**id_produto**, **cpf_funcionario**, **cnpj_fornecedor**, valor_total, qtd_produtos)<br>
 Funcionário(<ins>cpf</ins>, endereco, telefone, nome)<br>
+item_compra_produto(<ins>**id_produto**<ins>, <ins>**id_compra**<ins>)
