@@ -2,7 +2,7 @@
 
 Cliente(<ins>id_cliente</ins>, endereço, contato, nome)<br>
 Compra(<ins>id_compra</ins>, **id_cliente**, data)<br>
-Item_compra(**id_compra**)<br>
+Item_compra(<ins>id_compra_c</ins>, quantidade, preco, **id_compra**)<br>
 Produto(<ins>id_produto</ins>, preço, descricao, qtd_estoque)<br>
 Carta(<ins>id_produto</ins>, nome, categoria)<br>
 Carta_monstro(<ins>id_produto</ins>, tipo, nivel, efeito, def, atk, atributo)<br>
