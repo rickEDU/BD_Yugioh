@@ -36,3 +36,39 @@ A coluna final deve conter, quando necessário, uma explicação mais longa da v
 - Ele também deve explicar os termos na definição da variável com mais profundidade, se necessário. Por exemplo, uma descrição da variável pode esclarecer o que se entende por ‘disposição’ na definição acima. <br>
 - Pode fornecer fontes para definições, se essas definições não forem do próprio pesquisador. <br>
 
+
+### Tabelas de Relacionamentos:
+
+![tabelas de relacionamentos](https://user-images.githubusercontent.com/77638452/143907159-b9bd6033-d160-4c56-9105-0e6eddcd1360.jpg)
+
+
+### Tabelas de Atributos:
+
+![atributos 1](https://user-images.githubusercontent.com/77638452/143907454-da1e4d9c-cedb-42d8-ab5b-5b4220014e4e.jpg)
+
+![atributos 2](https://user-images.githubusercontent.com/77638452/143907490-7514ebf8-162a-4a85-9f4a-2d7fa11492fc.jpg)
+
+![atributos 3](https://user-images.githubusercontent.com/77638452/143907511-f14239bf-1c73-4a13-980a-9a72b304164d.jpg)
+
+![atributos 4](https://user-images.githubusercontent.com/77638452/143907529-8421a5b2-240b-46eb-a6d1-38d68bba07e8.jpg)
+
+![atributos 5](https://user-images.githubusercontent.com/77638452/143907542-a999cecf-e0f2-4a10-a79b-5da4f7a681be.jpg)
+
+![atributos 6](https://user-images.githubusercontent.com/77638452/143907580-18ae0f14-a0d8-4f66-978c-b83411d731cd.jpg)
+
+![atributos 7](https://user-images.githubusercontent.com/77638452/143907604-bcf20de3-f452-43a2-b12f-cc5e2f8e6d85.jpg)
+
+![atributos 8](https://user-images.githubusercontent.com/77638452/143907623-0cc6fac2-81a5-4f93-b45e-67e02a67e4bb.jpg)
+
+![atributos 9](https://user-images.githubusercontent.com/77638452/143907648-0b2f59ac-659a-42f7-a347-9d64de478047.jpg)
+
+![atributos 10](https://user-images.githubusercontent.com/77638452/143907682-2862e51b-ce53-41b5-ad5c-1c238e74cce7.jpg)
+
+![atributos 11](https://user-images.githubusercontent.com/77638452/143907704-41b5a76e-347a-4c07-a775-5d4a4c1f9631.jpg)
+
+
+### Relacionamentos:
+
+![relacionamentos](https://user-images.githubusercontent.com/77638452/143907746-3228fe6d-611c-4571-9866-436cdd494d7d.jpg)
+
+
