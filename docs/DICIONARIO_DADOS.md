@@ -24,6 +24,7 @@ Esta coluna deve conter uma definição da variável. <br>
 - Embora existam muitos tipos de definição, sempre que possível, forneça uma definição com a seguinte forma de gênero-differentia : “A é um B que Cs.” <br>
 - Por exemplo, “Uma a) atitude é ab) disposição c) pensar ou sentir que é sobre algo ou alguém, normalmente aquele que se reflete no comportamento de uma pessoa.” <br>
 - Evite definições circulares (por exemplo, “Uma bola de beisebol é uma bola usada no beisebol.”) <br>
+<br>
 * Sinônimos para o nome da variável (opcional) <br>
 - Esta coluna deve conter, se relevante, uma ou mais palavras que podem ser substituídas pelo nome da variável. <br>
 - Esses sinônimos devem refletir o significado do nome da variável conforme você o usa, e não apenas porque o nome da variável pode ser usado em um contexto diferente. <br>
