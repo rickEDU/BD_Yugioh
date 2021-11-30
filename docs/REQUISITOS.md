@@ -3,7 +3,7 @@
 2. **Funcionários** possuem nome, telefone, endereço e cpf
 3. **Produtos** possuem preço e identificador
 4. **Fornecedor** possui nome, telefone, endereço e cnpj
-5. Quando o **Cliente** faz uma compra, a mesma é armazenada, contendo a data, informação do cliente, o valor total da compra, a lista dos itens vendidos e o identificador da compra
+5. Quando o **Cliente** faz uma compra, a mesma é armazenada, contendo a data, informação do cliente, a lista dos itens vendidos e o identificador da compra
 6. **Cliente** pode fazer mais de uma compra
 7. **Booster** possui nome da coleção, valor e identificador
 8. Clientes podem comprar ou vender cartas
