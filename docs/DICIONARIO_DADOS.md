@@ -39,7 +39,8 @@ A coluna final deve conter, quando necessário, uma explicação mais longa da v
 
 ### Tabelas de Relacionamentos:
 
-![tabelas de relacionamentos](https://user-images.githubusercontent.com/77638452/143907159-b9bd6033-d160-4c56-9105-0e6eddcd1360.jpg)
+![tabelas de relacionamentos - atualizado](https://user-images.githubusercontent.com/77638452/143967913-e104ffc9-4a09-48ed-94a1-fdf3289b5f3c.jpg)
+
 
 
 ### Tabelas de Atributos:
@@ -48,27 +49,32 @@ A coluna final deve conter, quando necessário, uma explicação mais longa da v
 
 ![atributos 2](https://user-images.githubusercontent.com/77638452/143907490-7514ebf8-162a-4a85-9f4a-2d7fa11492fc.jpg)
 
-![atributos 3](https://user-images.githubusercontent.com/77638452/143907511-f14239bf-1c73-4a13-980a-9a72b304164d.jpg)
+![atributos 3 - item_compra](https://user-images.githubusercontent.com/77638452/143967950-5c334191-2ac5-41c3-b624-0ce1f5be57d8.jpg)
 
-![atributos 4](https://user-images.githubusercontent.com/77638452/143907529-8421a5b2-240b-46eb-a6d1-38d68bba07e8.jpg)
+![atributos 4 - produto](https://user-images.githubusercontent.com/77638452/143968002-f7f275cb-f9f7-4ad0-8407-1264343aee2d.jpg)
 
 ![atributos 5](https://user-images.githubusercontent.com/77638452/143907542-a999cecf-e0f2-4a10-a79b-5da4f7a681be.jpg)
 
 ![atributos 6](https://user-images.githubusercontent.com/77638452/143907580-18ae0f14-a0d8-4f66-978c-b83411d731cd.jpg)
 
-![atributos 7](https://user-images.githubusercontent.com/77638452/143907604-bcf20de3-f452-43a2-b12f-cc5e2f8e6d85.jpg)
+![atributos 7 - carta_magica_e_armadilha](https://user-images.githubusercontent.com/77638452/143968027-f8a0d422-5ed5-4425-8488-018628ca074c.jpg)
 
 ![atributos 8](https://user-images.githubusercontent.com/77638452/143907623-0cc6fac2-81a5-4f93-b45e-67e02a67e4bb.jpg)
 
 ![atributos 9](https://user-images.githubusercontent.com/77638452/143907648-0b2f59ac-659a-42f7-a347-9d64de478047.jpg)
 
-![atributos 10](https://user-images.githubusercontent.com/77638452/143907682-2862e51b-ce53-41b5-ad5c-1c238e74cce7.jpg)
+![atributos 10 - fornecedor](https://user-images.githubusercontent.com/77638452/143968068-3b0f48cc-c710-499b-af91-4c08d711740f.jpg)
 
-![atributos 11](https://user-images.githubusercontent.com/77638452/143907704-41b5a76e-347a-4c07-a775-5d4a4c1f9631.jpg)
+![atributos 11 - pedido](https://user-images.githubusercontent.com/77638452/143968084-646b7335-ccf9-4497-b02a-2514fb31eb99.jpg)
+
+![atributos 12 - funcionario](https://user-images.githubusercontent.com/77638452/143968094-b2bc4105-5e47-43bc-8fa2-f2e811386596.jpg)
+
+![atributos 13 - item_compra_produto_e_produto_pedido](https://user-images.githubusercontent.com/77638452/143968106-184852ec-45c4-4a7d-8e70-7318612974c5.jpg)
 
 
 ### Relacionamentos:
 
-![relacionamentos](https://user-images.githubusercontent.com/77638452/143907746-3228fe6d-611c-4571-9866-436cdd494d7d.jpg)
+![relacionamentos - atualizado](https://user-images.githubusercontent.com/77638452/143968134-99d00cb3-0b32-4883-bc21-bae124114367.jpg)
+
 
 
