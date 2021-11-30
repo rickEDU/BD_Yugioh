@@ -1,6 +1,6 @@
 ## Requisitos
 1. Cadastro do **Cliente** possui nome, número para contato, endereço, e identificador
-2. **Funcionários** nome, telefone, endereço, cpf
+2. **Funcionários** nome, telefone, endereço e cpf
 3. **Produtos** possuem preço e identificador
 4. **Fornecedor** possui nome, telefone, endereço e cnpj
 5. Quando o **Cliente** faz uma compra, a mesma é armazenada, contendo a data, informação do cliente, o valor total da compra, a lista dos itens vendidos e o identificador da compra
